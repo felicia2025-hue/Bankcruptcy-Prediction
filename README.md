@@ -2,7 +2,7 @@
 
 Can corporate bankruptcy be predicted using financial data?
 
-This project develops a machine learning model to classify companies based on their risk of bankruptcy, using financial ratio data. The model is trained to handle class imbalance and improve detection of rare bankruptcy cases. This project includes data cleaning, exploratory data analysis (EDA), feature engineering, class imbalance handling using SMOTE, model building using Random Forest, and deployment into a Streamlit web app for real-time prediction.
+This project develops a machine learning model to classify companies based on their risk of bankruptcy, using financial ratio data. The model is trained to handle class imbalance and improve detection of rare bankruptcy cases. 
 
 ---
 
