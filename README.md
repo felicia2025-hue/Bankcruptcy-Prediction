@@ -1,6 +1,6 @@
 # Bankruptcy Prediction
 
-Can corporate bankruptcy be predicted using financial data?
+### Can corporate bankruptcy be predicted using financial data? ###
 
 This project develops a machine learning model to classify companies based on their risk of bankruptcy, using financial ratio data. The model is trained to handle class imbalance and improve detection of rare bankruptcy cases. 
 
