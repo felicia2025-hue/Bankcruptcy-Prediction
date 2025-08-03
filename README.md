@@ -14,4 +14,4 @@ This project includes **data cleaning**, **data manipulation**, **exploratory da
 
 📎 For a more detailed explanation, please see the PPT [Here](https://github.com/felicia2025-hue/Bankcruptcy-Prediction/blob/main/Bankcruptcy%20Prediction%20%20Presentation.pdf)
 
-⚠️ *Due to file size, the dataset (`bankrupt.csv`) cannot be previewed on GitHub. Please **download it manually from the repository and upload it to Colab** when running the notebook.*
+⚠️ *Due to file size, the dataset (`bankrupt.csv`) cannot be previewed on GitHub. Please **download it manually from the repository or from [Here](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction) and upload it to Colab** when running the notebook.*
