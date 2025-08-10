@@ -12,6 +12,6 @@ This project uses financial data from **6,819 companies**, each described by **9
 
 This project includes **data cleaning**, **data manipulation**, **exploratory data analysis (EDA)**, **feature engineering**, and **modelling machine learning**.  The model is evaluated using precision, recall, and F1-score, with a focus on improving recall for the minority class to effectively identify companies at risk of bankruptcy.
 
-📎 For a more detailed explanation, please see the PPT [Here](https://github.com/felicia2025-hue/Bankcruptcy-Prediction/blob/main/Bankcruptcy%20Prediction%20%20Presentation.pdf)
+📎 For a more detailed explanation, please see the PPT [Here](Bankruptcy Prediction  Presentation.pdf)
 
 ⚠️ *Due to file size, the dataset (`bankrupt.csv`) cannot be previewed on GitHub. Please **download it manually from the repository or from [Here](bankrupt.csv) and make sure to adjust the file path as needed** when running the code*
